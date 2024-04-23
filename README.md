@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![MasterHead](https://camo.githubusercontent.com/371a3bbae1297d47d50006f91fdc0f51f0060b62dbbddbdba1b1b1438bc0f80d/68747470733a2f2f6d617275663030312d6d742e6769746875622e696f2f5072656d69756d2d44656c69766572792f7765622e676966)
+[![MasterHead](https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.geeksforgeeks.org%2Fwp-content%2Fuploads%2F20230427170658%2F10-Reasons-Why-You-Should-Become-A-Software-Engineer-(1).webp&tbnid=VJSqJIELilP06M&vet=12ahUKEwighI_O5tiFAxWY0KACHX2ZDFgQMyg9egUIARDVAQ..i&imgrefurl=https%3A%2F%2Fwww.geeksforgeeks.org%2Fwhy-you-should-become-a-software-engineer%2F&docid=7tp-DrVTH8o7TM&w=1000&h=470&q=software%20engineer&hl=ta&ved=2ahUKEwighI_O5tiFAxWY0KACHX2ZDFgQMyg9egUIARDVAQ)
 
 
 - 🌱 I’m currently learning Institute of technology university of MORATUWA.
